@@ -1,0 +1,41 @@
+# Blender autosave
+*.blend1
+*.blend2
+
+# Blender temporary files
+*.tmp
+*.temp
+
+# Blender cache
+cache/
+caches/
+__pycache__/
+
+# Simulation caches
+*.bphys
+*.vdb
+
+# Render outputs
+renders/
+render/
+output/
+
+# Exported files
+exports/
+export/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Python
+*.pyc
+__pycache__/
+
+# Temporary folders
+temp/
+tmp/
